@@ -1,0 +1,25 @@
+{
+  "name": "un5-viewport-observer",
+  "version": "1.0.0",
+  "description": "Observer an element when it appears or dissapears from viewport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/un5in/viewport-observer.git"
+  },
+  "keywords": [
+    "viewport",
+    "viewport",
+    "observer",
+    "javascript"
+  ],
+  "author": "https://github.com/un5in",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/un5in/viewport-observer/issues"
+  },
+  "homepage": "https://github.com/un5in/viewport-observer#readme"
+}
