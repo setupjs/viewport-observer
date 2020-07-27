@@ -4,11 +4,11 @@
 ## Installation
 **Yarn**
  ```
-  yarn add un5-viewport-observer
+  yarn add unajs-viewport-observer
  ```
 **NPM**
  ```
-  npm install --save un5-viewport-observer
+  npm install --save unajs-viewport-observer
  ```
 
 
