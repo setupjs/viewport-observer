@@ -1,17 +1,16 @@
 {
   "name": "un5-viewport-observer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Observer an element when it appears or dissapears from viewport",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublish": "babel src -d lib"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/un5in/viewport-observer.git"
   },
   "keywords": [
-    "viewport",
     "viewport",
     "observer",
     "javascript"
@@ -21,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/un5in/viewport-observer/issues"
   },
-  "homepage": "https://github.com/un5in/viewport-observer#readme"
+  "homepage": "https://github.com/un5in/viewport-observer#readme",
+  "devDependencies": {
+    "@babel/cli": "7.10.5",
+    "@babel/core": "7.10.5",
+    "@babel/preset-env": "7.10.4"
+  }
 }
