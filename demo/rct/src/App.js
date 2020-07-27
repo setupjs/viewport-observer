@@ -1,15 +1,3 @@
-# viewport-observer
-
-
-## Api
-
-- observe
-- unobserve
-
-
-## How to use with react
-> App.js
-```
 import React, {useContext, useEffect, useRef} from 'react';
 import ViewportObserverContext from './viewportObserverContext';
 
@@ -59,17 +47,3 @@ export default function App() {
     </div>
   );
 }
-```
->ViewportObserverContext
-
-```
-
-import {createContext} from 'react';
-import ViewportObserver from 'un5-viewport-observer';
-
-const viewportOberserObj = new ViewportObserver();
-const ViewportObserverContext = createContext(viewportOberserObj);
-
-export default ViewportObserverContext;
-
-```
