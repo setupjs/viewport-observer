@@ -10612,10 +10612,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-un5-viewport-observer@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/un5-viewport-observer/-/un5-viewport-observer-1.0.1.tgz#d4fc6455849c2195b9bafb7690b6ad8454bd0fd3"
-  integrity sha512-hSWETlSZqvy+/1K0DDZ7nc/K8seLzpoPP8wz8Mp1mR3Y4If2Nyie4DMHoHbhgFqZZ4laEwMospso4VcMl/g1VQ==
+unajs-viewport-observer@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/unajs-viewport-observer/-/unajs-viewport-observer-1.0.0.tgz#704eb02bc0a681230abb43049c5279869c668c30"
+  integrity sha512-u5UBaKDlEh9EvNOIVXyBccOGAWVuL9NMQeNIMRuiBLbcZqVAUseJLFHDM1Q/PDKoVmGKHI0pFUNVuj4sWIjCaA==
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"

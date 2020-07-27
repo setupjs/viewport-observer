@@ -1,6 +1,6 @@
 {
-  "name": "un5-viewport-observer",
-  "version": "1.0.1",
+  "name": "unajs-viewport-observer",
+  "version": "1.0.0",
   "description": "Observer an element when it appears or dissapears from viewport",
   "main": "lib/index.js",
   "scripts": {

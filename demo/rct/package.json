@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "un5-viewport-observer": "^1.0.1"
+    "unajs-viewport-observer": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
