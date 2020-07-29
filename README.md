@@ -123,7 +123,7 @@ export default ViewportObserverContext;
 import React, {useContext, useEffect} from 'react';
 import ViewportObserverContext from '../viewportObserverContext';
 
-export default function App() {
+export default function SomeComponent() {
   const viewportObserver = useContext(ViewportObserverContext);
 
   useEffect(() => {
