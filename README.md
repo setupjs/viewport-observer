@@ -130,16 +130,16 @@ export default function SomeComponent() {
     const target = {
       id: 'target2',
       notVisible: function() {
-        console.log('Target is not visible');
+        console.log('Target2 is not visible');
       },
       lessThanHalf: function() {
-        console.log('Target is less than half visible');
+        console.log('Target2 is less than half visible');
       },
       moreThanHalf: function() {
-        console.log('Target is more than half visible');
+        console.log('Target2 is more than half visible');
       },
       fullyVisible: function() {
-        console.log('Target is fully visible');
+        console.log('Target2 is fully visible');
       },
     };
     viewportObserver.observe(target);
