@@ -12,7 +12,7 @@ export default class ViewportObserver {
       target.notVisible(entry);
       return;
     }
-    if (entry.intersectionRatio < 0.5 && target.lessThanHalf) {
+    if (entry.isIntersecting && entry.intersectionRatio < 0.5 && target.lessThanHalf) {
       target.lessThanHalf(entry);
       return;
     }
